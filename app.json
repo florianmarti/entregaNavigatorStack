@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "Bakery",
+    "slug": "Bakery",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
